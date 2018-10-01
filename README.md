@@ -1,5 +1,5 @@
-# OOP-assginment
-LoginForm.Java
+LoginForm.java
+
 import javax.swing.JFrame;
 
 public class LoginForm extends javax.swing.JFrame {
@@ -261,14 +261,11 @@ public class LoginForm extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel2;
     private javax.swing.JPasswordField jPasswordField1;
     private javax.swing.JTextField jTextField1;
-    // End of variables declaration                   
-}
-
-
-
-
+    // End of variables declaration   
+    }
 
 RegisterForm.java
+
 import javax.swing.JFrame;
 
 public class RegisterForm extends javax.swing.JFrame {
@@ -643,5 +640,3 @@ public class RegisterForm extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField3;
     // End of variables declaration                   
 }
-
-
